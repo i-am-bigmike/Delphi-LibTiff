@@ -37,7 +37,7 @@ This project is licensed under the **Mozilla Public License (MPL) 2.0**.
 
 ## Credits
 Based on the original work by:
-* **Vampyre Imaging Library** - (https://github.com/galfar/imaginglib)
-* **Do-wan Kim** (Aware Systems - LibTiffDelphi)
+* **Vampyre Imaging Library** - v0.26.4 - 2009.10.11 - (https://github.com/galfar/imaginglib)
+* **Do-wan Kim** - LibTiffDelphi v3.9.4.00
 
 Updated and maintained by **bigmike** & **Gemini (Google AI)**.
